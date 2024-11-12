@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1005217130375",
-    "project_id": "templog-986cd",
-    "storage_bucket": "templog-986cd.appspot.com"
+    "project_number": "GOOGLE PROJECT NUMBER",
+    "project_id": "FIREBASE APP ID",
+    "storage_bucket": "FIREBASE STORAGE BUCKET"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1005217130375:android:cb049549dbd73438e89522",
+        "mobilesdk_app_id": "GOOGLE APP ID",
         "android_client_info": {
           "package_name": "com.example.templog_app"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB9iXZNKFc4b8yIPAGPjQmA9Ps_uWdSrdQ"
+          "current_key": "GOOGLE API KEY"
         }
       ],
       "services": {
