@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1005217130375",
+    "project_id": "templog-986cd",
+    "storage_bucket": "templog-986cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005217130375:android:cb049549dbd73438e89522",
+        "android_client_info": {
+          "package_name": "com.example.templog_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9iXZNKFc4b8yIPAGPjQmA9Ps_uWdSrdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
